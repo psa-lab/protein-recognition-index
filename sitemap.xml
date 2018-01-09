@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>http://psa-lab.github.io/protein-recognition-index/</loc>
+     <lastmod>2018-01-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://psa-lab.github.io/protein-recognition-index/installation/</loc>
+     <lastmod>2018-01-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://psa-lab.github.io/protein-recognition-index/user_guide/</loc>
+     <lastmod>2018-01-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>http://psa-lab.github.io/protein-recognition-index/contact/</loc>
+     <lastmod>2018-01-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://psa-lab.github.io/protein-recognition-index/changelog/</loc>
+     <lastmod>2018-01-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://psa-lab.github.io/protein-recognition-index/license/</loc>
+     <lastmod>2018-01-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://psa-lab.github.io/protein-recognition-index/cite/</loc>
+     <lastmod>2018-01-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>
