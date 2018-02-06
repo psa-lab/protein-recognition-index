@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Software to rigorously define intermolecular H-bonds by donor/acceptor chemistry and geometric constraints, which was developed, used, and described in detail in \n\n\n\n\nSebastian Raschka, Wolf A., Bemister-Buffington J., and Kuhn L.A. (2018) \n\"Protein-ligand interfaces are polarized: Discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes.\" J. Computer-Aided Molec. Design [in revision]\n\n\n\n\n\n\nLinks\n\n\n\n\nJournal paper: [insert]\n\n\nCode repository: \nhttps://github.com/psa-lab/hbind\n\n\nDocumentation: \nhttps://psa-lab.github.io/hbind\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[Interactions between an PKCI-substrate analog (\n1KPF\n)  with its ligand (adenosine monophsophate) via \nHbindViz\n and \nPyMOL\n; hydrogen atoms not shown]",
+            "text": "Software to rigorously define intermolecular H-bonds by donor/acceptor chemistry and geometric constraints, which was developed, used, and described in detail in \n\n\n\n\nRaschka, Sebastian, Alex Wolf, Joseph Bemister\u2010Buffington, and Leslie A. Kuhn (2018) \u201cProtein-ligand interfaces are polarized: discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes\u201d Journal of Computer-Aided Molecular Design. \nJournal of Computer-Aided Molecular Design\n (accepted manuscript) [\nbiorxiv preprint\n]\n\n\n\n\n\n\nLinks\n\n\n\n\nJournal paper: \nhttps://www.biorxiv.org/content/early/2018/02/05/260612\n\n\nCode repository: \nhttps://github.com/psa-lab/hbind\n\n\nDocumentation: \nhttps://psa-lab.github.io/hbind\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[Interactions between an PKCI-substrate analog (\n1KPF\n)  with its ligand (adenosine monophsophate) via \nHbindViz\n and \nPyMOL\n; hydrogen atoms not shown]",
             "title": "Home"
         },
         {
             "location": "/#links",
-            "text": "Journal paper: [insert]  Code repository:  https://github.com/psa-lab/hbind  Documentation:  https://psa-lab.github.io/hbind        [Interactions between an PKCI-substrate analog ( 1KPF )  with its ligand (adenosine monophsophate) via  HbindViz  and  PyMOL ; hydrogen atoms not shown]",
+            "text": "Journal paper:  https://www.biorxiv.org/content/early/2018/02/05/260612  Code repository:  https://github.com/psa-lab/hbind  Documentation:  https://psa-lab.github.io/hbind        [Interactions between an PKCI-substrate analog ( 1KPF )  with its ligand (adenosine monophsophate) via  HbindViz  and  PyMOL ; hydrogen atoms not shown]",
             "title": "Links"
         },
         {
