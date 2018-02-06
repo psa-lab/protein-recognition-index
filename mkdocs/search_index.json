@@ -72,22 +72,22 @@
         },
         {
             "location": "/cite/",
-            "text": "Citing PRI\n\n\nProtein Recognition Index (PRI) is research software and should be cited when you use it in your research. Please use the citation information given below.\n\n\nBibTeX Entry\n\n\n@article{Raschka2018,\nauthor = {Raschka, Sebastian and Wolf, Alex and Bemister-Buffington, Joseph and Kuhn, Leslie A.},\ndoi = {insert},\njournal = {Journal of Computer-Aided Molecular Design},\nkeywords = {insert},\nmonth = {insert},\nnumber = {insert},\npages = {insert},\ntitle = {{Protein-ligand interfaces are polarized: Discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes}},\nurl = {insert},\nvolume = {insert},\nyear = {2018}\n}\n\n\n\n\nFormatted Citation Example\n\n\n\n\ninsert",
+            "text": "Citing PRI\n\n\nProtein Recognition Index (PRI) is research software and should be cited when you use it in your research. Please use the citation information given below.\n\n\nThe journal article will appear in the \nJournal of Computer-Aided Design\n in 2018, currently, the information below refers to the manuscript preprint.\n\n\nBibTeX Entry\n\n\n@article{Raschka2018-2,\nauthor = {Raschka, Sebastian and Wolf, Alex J and Bemister-Buffington, Joseph and Kuhn, Leslie A},\ndoi = {10.1101/260612},\njournal = {bioRxiv},\npublisher = {Cold Spring Harbor Laboratory},\ntitle = {{Protein-ligand interfaces are polarized: Discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes}},\nurl = {https://www.biorxiv.org/content/early/2018/02/05/260612},\nyear = {2018}\n}\n\n\n\n\n\nFormatted Citation Example\n\n\n\n\nRaschka S, Wolf AJ, Bemister-Buffington J, Kuhn LA (2018) \nProtein-ligand interfaces are polarized: Discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes\n. bioRxiv. doi: 10.1101/260612",
             "title": "Citing PRI"
         },
         {
             "location": "/cite/#citing-pri",
-            "text": "Protein Recognition Index (PRI) is research software and should be cited when you use it in your research. Please use the citation information given below.",
+            "text": "Protein Recognition Index (PRI) is research software and should be cited when you use it in your research. Please use the citation information given below.  The journal article will appear in the  Journal of Computer-Aided Design  in 2018, currently, the information below refers to the manuscript preprint.",
             "title": "Citing PRI"
         },
         {
             "location": "/cite/#bibtex-entry",
-            "text": "@article{Raschka2018,\nauthor = {Raschka, Sebastian and Wolf, Alex and Bemister-Buffington, Joseph and Kuhn, Leslie A.},\ndoi = {insert},\njournal = {Journal of Computer-Aided Molecular Design},\nkeywords = {insert},\nmonth = {insert},\nnumber = {insert},\npages = {insert},\ntitle = {{Protein-ligand interfaces are polarized: Discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes}},\nurl = {insert},\nvolume = {insert},\nyear = {2018}\n}",
+            "text": "@article{Raschka2018-2,\nauthor = {Raschka, Sebastian and Wolf, Alex J and Bemister-Buffington, Joseph and Kuhn, Leslie A},\ndoi = {10.1101/260612},\njournal = {bioRxiv},\npublisher = {Cold Spring Harbor Laboratory},\ntitle = {{Protein-ligand interfaces are polarized: Discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes}},\nurl = {https://www.biorxiv.org/content/early/2018/02/05/260612},\nyear = {2018}\n}",
             "title": "BibTeX Entry"
         },
         {
             "location": "/cite/#formatted-citation-example",
-            "text": "insert",
+            "text": "Raschka S, Wolf AJ, Bemister-Buffington J, Kuhn LA (2018)  Protein-ligand interfaces are polarized: Discovery of a strong trend for intermolecular hydrogen bonds to favor donors on the protein side with implications for predicting and designing ligand complexes . bioRxiv. doi: 10.1101/260612",
             "title": "Formatted Citation Example"
         }
     ]
